@@ -1,0 +1,11 @@
+**=====Keys====
+Recruit = 500k 
+Platinum = 750k
+Sapphire = 1.6m 
+Diamond = 2.8m
+
+=====Boxes=====
+Poop box = 7.5m 
+Anymeds Box = 4.1m
+Decent box = 23m 
+Jackpot box = 40m**

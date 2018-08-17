@@ -1,0 +1,17 @@
+ **Commands for Apple bot:**
+
+`,add [keyword] [message]`   (Only for users with the role @Apple can create)
+
+`,[keyword]`  **Triggers the message if there is an existing one**   
+
+`,gstart`     **Giveaway trigger that starts a giveaway!**    (Only for users with the @Giveaway role)
+
+`,gchoose`    **To choose the winner**    (Only for users with the @Giveaway role)
+
+`,apple`      **To enter any existing giveaways**    
+
+`,prices`     **Prices for all of our keys and chests** 
+
+`,twitch`     **Twitch for the server**
+
+`,invite`     **Invite link to invite friends for free keys!**
